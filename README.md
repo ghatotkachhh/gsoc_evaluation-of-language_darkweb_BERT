@@ -3,7 +3,7 @@
 This repository contains the code and the model weights based on the validation loss for the evaluation task for contributing to the project "Evaluation of Language Models on Dark Web Text using BERT". The project is part of Google Summer of Code (GSoC).
 
 
-## Notebook for the data analysis,preprocessing,training and inference  
+## Notebook for the data analysis, preprocessing, training, and inference for the evaluation task
 The notebook is in the repository named gsoc-eval-test (1).ipynb
 
 
