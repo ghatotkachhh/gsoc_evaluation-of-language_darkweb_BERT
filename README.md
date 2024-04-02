@@ -14,6 +14,6 @@ To load the weights into the model, follow these steps:
 ```python
 import torch
 
-# Replace "directory to the weights" with the actual directory where you've downloaded the weights
-weights = torch.load("directory to the weights")
+# Replace "directory_weights" with the directory of the weights
+weights = torch.load("directory_weights")
 model.load_state_dict(weights["model"])
